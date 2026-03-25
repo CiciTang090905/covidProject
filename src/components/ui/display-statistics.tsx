@@ -39,6 +39,3 @@ const DisplayStatistics = () => {
 };
 
 export default DisplayStatistics;
-
-
-export default DisplayStatistics;
