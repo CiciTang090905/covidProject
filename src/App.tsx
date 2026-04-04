@@ -7,7 +7,6 @@ function App() {
 
   return (
     <div className="flex flex-col justify-between items-center min-h-screen max-w-4xl m-auto py-10">
-      //lift up
       <SelectCountry setCountryCode={setCountryCode} />  
       <DisplayStatistics countryCode={countryCode} />
     </div>
